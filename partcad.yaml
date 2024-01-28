@@ -1,3 +1,5 @@
+desc: Dimensional lumber in imperial units
+
 parts:
   lumber:
     type: cadquery
