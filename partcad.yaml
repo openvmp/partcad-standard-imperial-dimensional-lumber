@@ -11,16 +11,16 @@ parts:
         type: int
         default: 2
       length:
-        type: int
+        type: float
         default: 120
   plywood:
     type: cadquery
     parameters:
       width:
-        type: int
+        type: float
         default: 48
       length:
-        type: int
+        type: float
         default: 48
       thickness:
         type: float
